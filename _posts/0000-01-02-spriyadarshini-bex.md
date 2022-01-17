@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Arise and awake until the goal is reached"
 Use the left arrow to go back!
